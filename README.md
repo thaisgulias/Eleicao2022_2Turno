@@ -13,5 +13,6 @@ Análise de dados com Banco de dados da Adventure Works disponibilizado pela Azu
  Adicionalmente, disponibilizamos um dashboard interativo para consulta.
  https://app.powerbi.com/view?r=eyJrIjoiODY4MjE2NmYtZmI0My00Yzg3LTg1ZDMtYWI3ODBkMmFjNzRhIiwidCI6IjY2YWI5M2FmLWVmZmEtNDFiYi05MjdkLTViZTc1YzQ0YjQ1NCJ9&pageName=ReportSection
 
-  
+  ![Captura de tela 2023-07-04 100956](https://github.com/thaisgulias/Azure_adventureworks/assets/122481212/2954ce41-864a-4aac-818d-0825354508a3)
+
 
