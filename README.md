@@ -10,7 +10,7 @@ Análise de dados com Banco de dados da Adventure Works disponibilizado pela Azu
   Abaixo é possivel acessar o link da apresentação do storytelling com os dados da Adventure Works:
   https://drive.google.com/file/d/1DpdirU3ixeE6D6C9SAWXEzILJ49172sX/view?usp=sharing
 
- Adicionalmente, disponibilizamos um dashboard interativo para consulta.
+ Adicionalmente, disponibilizo um dashboard interativo para consulta.
  https://app.powerbi.com/view?r=eyJrIjoiODY4MjE2NmYtZmI0My00Yzg3LTg1ZDMtYWI3ODBkMmFjNzRhIiwidCI6IjY2YWI5M2FmLWVmZmEtNDFiYi05MjdkLTViZTc1YzQ0YjQ1NCJ9&pageName=ReportSection
 
  ![Sem título](https://github.com/thaisgulias/Azure_adventureworks/assets/122481212/0d66591e-7473-4302-9bfb-f9e16eeb7999)
