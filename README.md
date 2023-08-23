@@ -6,6 +6,8 @@ Nossa expectativa é que você aborde três aspectos:
 2. Criação de um storytelling para qualquer outra métrica possível com os dados;
 3. Jupyter notebook ou script em R do output gerado.
 
+Objetivos da Análise: Nosso principal objetivo é investigar como os votos foram distribuídos geograficamente no segundo turno desta eleição. Queremos entender se há padrões claros de votação por candidato e se podemos identificar regiões com preferências eleitorais distintas.
+
 ![image](https://github.com/thaisgulias/Eleicao_2turno/assets/122481212/048f3766-8fbd-4667-b64b-82824db36aff)
 
 
